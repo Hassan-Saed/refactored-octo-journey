@@ -1,4 +1,7 @@
-body{}[D[D
-[A[C[C[C[C[C
-[A[C[C[C[C[C	[D[D[D font size[D[D[D[-[C[C[C[C[C:50px}
-
+body{
+    font-size: 30px;
+    background-color: aqua;
+    background-size: 100px;
+    color-scheme: red;
+    flex-direction: right;
+}
